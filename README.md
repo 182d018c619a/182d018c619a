@@ -122,27 +122,26 @@ Saya adalah seorang pengembang yang berorientasi pada hasil dengan pengalaman me
 ---
 
 ### 📬 Connect with Me
-<div align="center">
-<a href="https://linkedin.com/in/devinsa">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://localhost911.gov">
-<img src="https://img.shields.io/badge/Portfolio-00d2ff?style=for-the-badge&logo=google-chrome&logoColor=black" />
-</a>
-<a href="mailto:819a829b001@anon.dev">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://medium.com/@182d018c619a">
-<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
-</a>
-</div>
-
-<br />
-
-![Visitor Count](https://komarev.com/ghpvc/?username=182d018c619a&color=blue&style=flat-square&label=PROFILE+VIEWS)
-
-</div>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=58A6FF&height=100&section=footer" />
+  <a href="https://linkedin.com/in/devinsa">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://localhost911.gov">
+    <img src="https://img.shields.io/badge/Portfolio-00d2ff?style=for-the-badge&logo=google-chrome&logoColor=black" />
+  </a>
+  <a href="mailto:819a829b001@anon.dev">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://medium.com/@182d018c619a">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=182d018c619a&color=00d2ff&style=for-the-badge&label=PROFILE+VIEWS" alt="Visitor Count" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00d2ff&customColorList=0D1117,161b22,0070f3,00d2ff&height=120&section=footer&animation=fadeIn" />
 </p>
