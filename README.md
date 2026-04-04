@@ -128,7 +128,7 @@ Saya adalah seorang pengembang yang berorientasi pada hasil dengan pengalaman me
 | Channel | Link |
 | :--- | :--- |
 | **LinkedIn** | [linkedin.com/in/devinsa](https://linkedin.com/in/username) |
-| **Personal Website** | [portfolio.com](https://localhost911.gov) |
+| **Personal Website** | [localhost911.gov](https://localhost911.gov) |
 | **Email** | [819a829b001@anon.dev](mailto:email@anda.com) |
 | **Medium/Blog** | [@182d018c619a](https://medium.com) |
 
