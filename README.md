@@ -61,7 +61,7 @@ Saya adalah seorang pengembang yang berorientasi pada hasil dengan pengalaman me
 </table>
 
 <details>
-<summary align="center"><b>🏆 Achievements & Badges (Click to Expand)</b></summary>
+<summary align="center"><b>🏆 Achievements & Badges</b></summary>
 <br />
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=182d018c619a&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Langs" />
