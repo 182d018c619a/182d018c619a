@@ -1,8 +1,11 @@
-# 💻 182d018c619a | Full Stack Systems Architect
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=250&section=header&text=182d018c619a&fontSize=80&fontAlignY=45&animation=twinkling&desc=Full%20Stack%20Development%20•%20Cloud%20Architecture%20•%20Open%20Source&descAlignY=65&descSize=20" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0D1117&customColorList=0D1117,161b22,0070f3,00d2ff&height=180&section=header&text=182d018c619a&fontSize=80&fontAlignY=50&animation=fadeIn" />
+
+  <br />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D2FF&center=true&vCenter=true&width=500&lines=Full+Stack+Development;Cloud+Architecture;Open+Source+Contributor" alt="Typing SVG" />
 </p>
+
+
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+highly+scalable+distributed+systems;Expert+in+React+and+Node.js+Ecosystem;Passionate+about+UI/UX+and+System+Design;Automating+the+world+one+script+at+a+time" alt="Typing SVG" />
@@ -66,11 +69,14 @@ Saya adalah seorang pengembang yang berorientasi pada hasil dengan pengalaman me
 <table align="center">
   <tr>
     <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=182d018c619a&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="GitHub Stats" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=182d018c619a&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
     </td>
     <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=182d018c619a&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-    </td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=182d018c619a&theme=tokyonight" alt="Profile Summary" />
+  </tr>
+</table>
+
+   
   </tr>
 </table>
 
@@ -107,9 +113,11 @@ Saya adalah seorang pengembang yang berorientasi pada hasil dengan pengalaman me
 
 ---
 
-### 🛠️ GitHub Workflow Status
-![GitHub Readme Snake](https://raw.githubusercontent.com/182d018c619a/182d018c619a/output/github-contribution-grid-snake.svg)
-*(Catatan: Animasi Snake memerlukan setup GitHub Action khusus di repo Anda)*
+### 🛠️ GitHub Workflow Maps
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=182d018c619a&theme=tokyonight&area=true&hide_border=true&bg_color=0D1117&color=00d2ff" width="100%" alt="Contribution Graph" />
+</p>
+
 
 ---
 
@@ -119,9 +127,9 @@ Saya adalah seorang pengembang yang berorientasi pada hasil dengan pengalaman me
 
 | Channel | Link |
 | :--- | :--- |
-| **LinkedIn** | [linkedin.com/in/username](https://linkedin.com/in/username) |
-| **Personal Website** | [portfolio.com](https://portfolio.com) |
-| **Email** | [contact@182d018c619a.dev](mailto:email@anda.com) |
+| **LinkedIn** | [linkedin.com/in/devinsa](https://linkedin.com/in/username) |
+| **Personal Website** | [portfolio.com](https://localhost911.gov) |
+| **Email** | [819a829b001@anon.dev](mailto:email@anda.com) |
 | **Medium/Blog** | [@182d018c619a](https://medium.com) |
 
 <br />
