@@ -1,51 +1,66 @@
-# <p align="center">─── ⚡ SELIM AHMED ⚡ ───</p>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FBFF&center=true&vCenter=true&width=500&lines=Offensive+Security+Researcher;AI+for+Cybersecurity+Dev;Arch+Linux+Power+User;Building+Next-Gen+Exploits" alt="Typing SVG" />
-</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/render?type=rect&color=000000&height=120&section=header&text=DATABASE%20182d018c619a&fontSize=50&fontAlignY=45&animation=twinkling&fontColor=39FF14" width="100%"/>
+  
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=39FF14&center=true&vCenter=true&width=600&lines=INITIATING+SYSTEM+ACCESS...;ROLE:+AI+OFFENSIVE+DEVELOPER;OS:+LINUX+KERNEL+SPECIALIST;SKILL:+PENTESTING+%26+NETWORK+CRAFTING;STATUS:+CONTINUOUS+LEARNING...)](https://git.io/typing-svg)
+</div>
 
-<p align="center">
-  <kbd>Building the future of automated hacking with AI-driven intelligence on an Arch-hardened environment.</kbd>
+---
+
+## 📂 [ SYSTEM_LOG_001 ] : IDENTITI_PROFIL
+> **SUBJECT ID:** `182d018c619a`  
+> **CLASSIFICATION:** `CYBER_RESEARCHER` / `AI_ENGINEER`  
+> **ENVIRONMENT:** `KALI` | `ARCH` | `DEBIAN_CORE`  
+> **MISSION:** Mengintegrasikan kecerdasan buatan ke dalam protokol pengujian penembusan (AI-Driven Pentesting) dan membina utiliti rangkaian dari peringkat rendah (low-level).
+
+---
+
+## 🧠 SPESIFIKASI_TEKNIKAL (TECHNICAL_STACK)
+
+### 🖥️ KEMAHIRAN_SISTEM_OPERASI
+| COMPONENT | SPECIFICATIONS | PROFICIENCY |
+| :--- | :--- | :--- |
+| **Kernel Linux** | Custom Compilation, Bash Scripting, SysAdmin | `90%` |
+| **Networking** | TCP/IP Stack, Packet Injection, VLAN, Proxy-Chains | `85%` |
+| **Security** | Red Teaming, Vulnerability Research, Exploitation | `80%` |
+
+### 🛠️ STACK_PEMBANGUNAN_ALAT
+<p align="left">
+  <img src="https://img.shields.io/badge/Language-Python-blue?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Language-C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Language-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Language-Rust-black?style=for-the-badge&logo=rust&logoColor=white"/>
 </p>
 
 ---
 
-### 🛡️ Cyber Arsenal & Tech Stack
+## 🛡️ JALUR_PENYELIDIKAN (RESEARCH_PATH)
 
-| **Category** | **Technologies** |
-| :--- | :--- |
-| **OS & Core** | ![Arch](https://img.shields.io/badge/-Arch_Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white) ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white) ![Kernel](https://img.shields.io/badge/-Kernel_Hardening-black?style=flat-square&logo=linux) |
-| **Offensive AI** | ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![Transformers](https://img.shields.io/badge/-Transformers-FFD21E?style=flat-square&logo=hugging-face&logoColor=black) ![LangChain](https://img.shields.io/badge/-LangChain-00ADD8?style=flat-square) |
-| **Pentest Gear** | ![Metasploit](https://img.shields.io/badge/-Metasploit-FF4400?style=flat-square&logo=metasploit&logoColor=white) ![Burp](https://img.shields.io/badge/-Burp_Suite-FF6633?style=flat-square&logo=portswigger) ![Nmap](https://img.shields.io/badge/-Nmap-777777?style=flat-square) |
-| **Dev Tools** | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
+### 1. 🤖 AI & MACHINE LEARNING IN SECURITY
+- [ ] **Neural Fuzzing**: Menggunakan AI untuk mencari pepijat perisian secara automatik.
+- [ ] **Malware Detection**: Membina model CNN untuk mengesan kod berniat jahat melalui corak binari.
+- [ ] **LLM for Exploitation**: Eksperimen dengan Large Language Models untuk automasi laporan pentest.
 
----
-
-### 🧬 Current Research Focus
-
-- 🤖 **Neural-Exploit-Kit**: Mengembangkan agen AI (LLM) yang mampu melakukan *automated vulnerability discovery* secara mandiri.
-- 🐚 **Arch Hardening**: Scripting otomatisasi untuk mengamankan sistem Arch Linux pasca-instalasi.
-- 🕸️ **Advanced Recon**: Integrasi AI untuk menganalisis pola trafik jaringan dan mendeteksi celah keamanan dalam skala besar.
+### 2. 🌐 NETWORK & PENTESTING TOOLS
+- [ ] **Socket Programming**: Membina "Scanners" dan "Sniffers" tersuai menggunakan Python/C.
+- [ ] **Payload Crafting**: Mempelajari teknik *evasion* (mengelak AV) dan *obfuscation*.
+- [ ] **Protocol Reverse Engineering**: Memahami protokol komunikasi yang tidak didokumentasikan.
 
 ---
 
-### 📊 Deep Intelligence Analysis
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="480" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" width="350" />
-</p>
+## 📊 ANALISIS_PRODUKTIVITI
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" width="835" />
+<img src="https://github-readme-stats.vercel.app/api?username=182d018c619a&show_icons=true&theme=neon&border_color=39FF14&bg_color=000000" alt="Stats" height="185px"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=182d018c619a&layout=compact&theme=neon&border_color=39FF14&bg_color=000000" alt="Langs" height="185px"/>
 </p>
+
+### 📈 CARTA_KEMUNCULAN_KOD
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=182d018c619a&theme=dracula&bg_color=000000&color=39FF14&line=39FF14&point=FFFFFF&area=true&hide_border=true)
 
 ---
 
-### 📡 Connection Terminals
+## 🛠️ MAKMAL_PROJEK (LAB_PROJECTS)
 
-- 📧 **Signal/Email**: `aronno1920@hotmail.com`
-- 🖥️ **OS**: `Rolling release Arch (btw)`
-- 💼 **Status**: `Open for collaborations on AI-Security Projects`
-
-<p align="right">
-  <i>"Technology is just a tool, intelligence is the weapon."</i>
-</p>
+```bash
+# Clone projek utama saya untuk pengajian AI/Pentest
+$git clone [https://github.com/182d018c619a/AI-Sploit-Framework.git$](https://github.com/182d018c619a/AI-Sploit-Framework.git$) git clone [https://github.com/182d018c619a/Linux-Hardening-Suite.git](https://github.com/182d018c619a/Linux-Hardening-Suite.git)
