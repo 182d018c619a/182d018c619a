@@ -3,7 +3,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=1a1b27&height=120&section=footer&text=The%20Linux%20Rules&fontSize=35&fontColor=ffffff&animation=fadeIn" width="1000">
 </p>
----
+
 
 
 
