@@ -1,66 +1,108 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=rect&color=000000&height=120&section=header&text=DATABASE%20182d018c619a&fontSize=50&fontAlignY=45&animation=twinkling&fontColor=39FF14" width="100%"/>
-  
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=39FF14&center=true&vCenter=true&width=600&lines=INITIATING+SYSTEM+ACCESS...;ROLE:+AI+OFFENSIVE+DEVELOPER;OS:+LINUX+KERNEL+SPECIALIST;SKILL:+PENTESTING+%26+NETWORK+CRAFTING;STATUS:+CONTINUOUS+LEARNING...)](https://git.io/typing-svg)
+
+# 🌌 [ DATABASE_ACCESS_GRANTED ] 🌌
+### 📂 PROFILE_NAME: 182d018c619a | 📂 ROLE: AI_PENTESTER_DEVELOPER
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=800&color=39FF14&center=true&vCenter=true&width=700&lines=USER_LEVEL:+ADVANCED+LINUX+USER;LEARNING:+AI+FOR+OFFENSIVE+SECURITY;STATUS:+BUILDING+CUSTOM+TOOLS;MISSION:+NETWORK+MASTERY)](https://git.io/typing-svg)
+
+---
+
+<img src="https://raw.githubusercontent.com/mhmadefendi/mhmadefendi/main/assets/images/line-neon.gif" width="100%">
+
+</div>
+
+## 📑 SYSTEM OVERVIEW
+> **User ID:** `182d018c619a`  
+> **Specialization:** Offensive AI Development | Kernel-Level Linux Hacking | Network Architecture | Security Automation  
+> **Status:** 🟢 Active Learning & Tool Development  
+> **Bio:** Experienced in low-level Linux exploitation, AI-assisted pentesting, and network infiltration. Passionate about building autonomous tools to simulate real-world attack vectors and optimize network defenses.  
+
+---
+
+## 🛠️ CORE TERMINAL EXPLOITS (SKILLS)
+
+<table align="center" style="width: 100%; border-collapse: collapse;">
+  <tr>
+    <td align="center" width="25%">
+      <h3>🐧 Linux & OS</h3>
+      <img src="https://skillicons.dev/icons?i=linux,arch,bash,ubuntu,debian" /><br>
+      <sub>Kernel Optimization | Scripting | OS Hardening | System Monitoring</sub>
+    </td>
+    <td align="center" width="25%">
+      <h3>🤖 AI & Dev</h3>
+      <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,cpp,go" /><br>
+      <sub>Machine Learning | Neural Network Exploits | Automation Scripts | AI Tooling</sub>
+    </td>
+    <td align="center" width="25%">
+      <h3>🛡️ Networking</h3>
+      <img src="https://skillicons.dev/icons?i=wireshark,pcap,postman,aws,docker" /><br>
+      <sub>Traffic Analysis | Packet Injection | VPN & Proxy Techniques | Cloud Security</sub>
+    </td>
+    <td align="center" width="25%">
+      <h3>🔧 Offensive Security</h3>
+      <img src="https://skillicons.dev/icons?i=metasploit,nmap,burpsuite,sql,hashicorp" /><br>
+      <sub>Vulnerability Assessment | Exploit Dev | Penetration Automation | Crypto Cracking</sub>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📡 CURRENT PROJECTS & LABS
+
+| Project Name | Objective | Status | Last Update |
+| :--- | :--- | :--- | :--- |
+| **Project-NeuralStrike** | AI-Driven Automated Vulnerability Scanner | `BUILDING` | 2026-03-30 |
+| **K-Linux-Hardener** | Custom Kernel Hardening Scripts & Automation | `STABLE` | 2026-04-01 |
+| **Packet-Phantom** | Low-Level C++ Network Packet Injector | `RESEARCH` | 2026-03-28 |
+| **DeepScan-3X** | AI Deep Learning for Zero-Day Detection | `PLANNING` | 2026-03-25 |
+| **NetSentinel** | Automated Network Intrusion Simulation | `ALPHA` | 2026-03-31 |
+
+---
+
+## ⚡ SYSTEM METRICS (REAL-TIME)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=182d018c619a&show_icons=true&theme=radical&border_radius=15&hide_border=false" alt="GitHub Stats" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=182d018c619a&layout=compact&theme=radical&border_radius=15&hide_border=false" alt="Top Languages" height="180px"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=182d018c619a&theme=radical&hide_border=false" alt="GitHub Streak" width="100%"/>
+</p>
+
+---
+
+## 🧬 CONTRIBUTION & ACTIVITY FLOW
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=182d018c619a&theme=github-activity&area=true" width="100%">
+</p>
+
+---
+
+## 🏆 ACHIEVEMENTS & BADGES
+
+<div align="center">
+<img src="https://img.shields.io/badge/Kernel_Expert-Expert-blue?style=for-the-badge&logo=linux&logoColor=white" />
+<img src="https://img.shields.io/badge/AI_Pentester-Advanced-green?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Network_Sentinel-Pro-red?style=for-the-badge&logo=wireshark&logoColor=white" />
+<img src="https://img.shields.io/badge/Zero-Day_Hunter-Elite-purple?style=for-the-badge&logo=metasploit&logoColor=white" />
 </div>
 
 ---
 
-## 📂 [ SYSTEM_LOG_001 ] : IDENTITI_PROFIL
-> **SUBJECT ID:** `182d018c619a`  
-> **CLASSIFICATION:** `CYBER_RESEARCHER` / `AI_ENGINEER`  
-> **ENVIRONMENT:** `KALI` | `ARCH` | `DEBIAN_CORE`  
-> **MISSION:** Mengintegrasikan kecerdasan buatan ke dalam protokol pengujian penembusan (AI-Driven Pentesting) dan membina utiliti rangkaian dari peringkat rendah (low-level).
+## 🔗 ENCRYPTED CONTACTS
+
+<div align="center">
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://your-linkedin-link)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://your-discord-link)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+</div>
+
+<br>
+
+<img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=140&section=footer" width="100%"/>
 
 ---
-
-## 🧠 SPESIFIKASI_TEKNIKAL (TECHNICAL_STACK)
-
-### 🖥️ KEMAHIRAN_SISTEM_OPERASI
-| COMPONENT | SPECIFICATIONS | PROFICIENCY |
-| :--- | :--- | :--- |
-| **Kernel Linux** | Custom Compilation, Bash Scripting, SysAdmin | `90%` |
-| **Networking** | TCP/IP Stack, Packet Injection, VLAN, Proxy-Chains | `85%` |
-| **Security** | Red Teaming, Vulnerability Research, Exploitation | `80%` |
-
-### 🛠️ STACK_PEMBANGUNAN_ALAT
-<p align="left">
-  <img src="https://img.shields.io/badge/Language-Python-blue?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Language-C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Language-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Language-Rust-black?style=for-the-badge&logo=rust&logoColor=white"/>
-</p>
-
----
-
-## 🛡️ JALUR_PENYELIDIKAN (RESEARCH_PATH)
-
-### 1. 🤖 AI & MACHINE LEARNING IN SECURITY
-- [ ] **Neural Fuzzing**: Menggunakan AI untuk mencari pepijat perisian secara automatik.
-- [ ] **Malware Detection**: Membina model CNN untuk mengesan kod berniat jahat melalui corak binari.
-- [ ] **LLM for Exploitation**: Eksperimen dengan Large Language Models untuk automasi laporan pentest.
-
-### 2. 🌐 NETWORK & PENTESTING TOOLS
-- [ ] **Socket Programming**: Membina "Scanners" dan "Sniffers" tersuai menggunakan Python/C.
-- [ ] **Payload Crafting**: Mempelajari teknik *evasion* (mengelak AV) dan *obfuscation*.
-- [ ] **Protocol Reverse Engineering**: Memahami protokol komunikasi yang tidak didokumentasikan.
-
----
-
-## 📊 ANALISIS_PRODUKTIVITI
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=182d018c619a&show_icons=true&theme=neon&border_color=39FF14&bg_color=000000" alt="Stats" height="185px"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=182d018c619a&layout=compact&theme=neon&border_color=39FF14&bg_color=000000" alt="Langs" height="185px"/>
-</p>
-
-### 📈 CARTA_KEMUNCULAN_KOD
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=182d018c619a&theme=dracula&bg_color=000000&color=39FF14&line=39FF14&point=FFFFFF&area=true&hide_border=true)
-
----
-
-## 🛠️ MAKMAL_PROJEK (LAB_PROJECTS)
-
-```bash
-# Clone projek utama saya untuk pengajian AI/Pentest
-$git clone [https://github.com/182d018c619a/AI-Sploit-Framework.git$](https://github.com/182d018c619a/AI-Sploit-Framework.git$) git clone [https://github.com/182d018c619a/Linux-Hardening-Suite.git](https://github.com/182d018c619a/Linux-Hardening-Suite.git)
+**LAST_UPDATED:** 2026_SYSTEM_TIME
