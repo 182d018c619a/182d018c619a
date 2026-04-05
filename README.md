@@ -92,7 +92,7 @@ Automated Network Intrusion Simulation
 
 <div align="center">
 <img src="https://img.shields.io/badge/Kernel_Expert-Expert-blue?style=for-the-badge&logo=linux&logoColor=white" />
-<img src="https://img.shields.io/badge/AI_Pentester-Advanced-blue?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/AI_Pentester-Advanced-0077B5?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/Network_Sentinel-Pro-red?style=for-the-badge&logo=wireshark&logoColor=white" />
 <img src="https://img.shields.io/badge/Zero-Day_Hunter-Elite-purple?style=for-the-badge&logo=metasploit&logoColor=white" />
 </div>
@@ -111,7 +111,7 @@ Automated Network Intrusion Simulation
 
 <br><br>
 
-**SECURE CONNECTION ESTABLISHED** *Ready for transmission.*
+**SECURE CONNECTION ESTABLISHED** *Ready for transmission. Feel free to reach out.*
 
 <br>
 
