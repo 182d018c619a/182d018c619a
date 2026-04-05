@@ -19,52 +19,96 @@
 
 ---
 
-## 🛠️ CORE TERMINAL EXPLOITS (SKILLS)
+## 🛠️ CORE TERMINAL EXPLOITS
 
-<table align="center" style="width: 100%; border-collapse: collapse;">
-  <tr>
-    <td align="center" width="25%">
-      <h3>🐧 Linux & OS</h3>
-      <img src="https://skillicons.dev/icons?i=linux,arch,bash,ubuntu,debian" /><br>
-      <sub>Kernel Optimization | Scripting | OS Hardening | System Monitoring</sub>
-    </td>
-    <td align="center" width="25%">
-      <h3>🤖 AI & Dev</h3>
-      <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,cpp,go" /><br>
-      <sub>Machine Learning | Neural Network Exploits | Automation Scripts | AI Tooling</sub>
-    </td>
-    <td align="center" width="25%">
-      <h3>🛡️ Networking</h3>
-      <img src="https://skillicons.dev/icons?i=wireshark,pcap,postman,aws,docker" /><br>
-      <sub>Traffic Analysis | Packet Injection | VPN & Proxy Techniques | Cloud Security</sub>
-    </td>
-    <td align="center" width="25%">
-      <h3>🔧 Offensive Security</h3>
-      <img src="https://skillicons.dev/icons?i=metasploit,nmap,burpsuite,sql,hashicorp" /><br>
-      <sub>Vulnerability Assessment | Exploit Dev | Penetration Automation | Crypto Cracking</sub>
-    </td>
-  </tr>
-</table>
+<br>
+
+### 🐧 LINUX & OS ARCHITECTURE
+`Kernel Optimization` • `Scripting` • `OS Hardening` • `System Monitoring`
+<br>
+[![My Skills](https://skillicons.dev/icons?i=linux,arch,bash,ubuntu,debian)](https://skillicons.dev)
+
+<br>
+
+### 🤖 AI & NEURAL DEVELOPMENT
+`Machine Learning` • `Neural Network Exploits` • `Automation` • `AI Tooling`
+<br>
+[![My Skills](https://skillicons.dev/icons?i=python,tensorflow,pytorch,cpp,go)](https://skillicons.dev)
+
+<br>
+
+### 🛡️ NETWORK INFILTRATION & CLOUD
+`Traffic Analysis` • `Packet Injection` • `VPN/Proxy` • `Cloud Security`
+<br>
+[![My Skills](https://skillicons.dev/icons?i=wireshark,pcap,postman,aws,docker)](https://skillicons.dev)
+
+<br>
+
+### 🔧 OFFENSIVE SECURITY LABS
+`Vulnerability Assessment` • `Exploit Dev` • `Penetration` • `Crypto Cracking`
+<br>
+[![My Skills](https://skillicons.dev/icons?i=metasploit,nmap,burpsuite,sql,hashicorp)](https://skillicons.dev)
+
+<br>
+<br>
+
+<img src="https://capsule-render.vercel.app/render?type=waving&color=0077B5&height=120&section=footer&text=SYSTEM_READY&fontSize=20&animation=fadeIn" width="100%"/>
 
 ---
+
+### 🔧 OFFENSIVE SECURITY LABS
+`Vulnerability Assessment` • `Exploit Dev` • `Penetration` • `Crypto Cracking`
+<br>
+[![My Skills](https://skillicons.dev/icons?i=metasploit,nmap,burpsuite,sql,hashicorp)](https://skillicons.dev)
+
+<br>
+<br>
+
+<img src="https://capsule-render.vercel.app/render?type=waving&color=0077B5&height=120&section=footer&text=SYSTEM_READY&fontSize=20" width="100%"/>
 
 ## 📡 CURRENT PROJECTS & LABS
 
-| Project Name | Objective | Status | Last Update |
-| :--- | :--- | :--- | :--- |
-| **Project-NeuralStrike** | AI-Driven Automated Vulnerability Scanner | `BUILDING` | 2026-03-30 |
-| **K-Linux-Hardener** | Custom Kernel Hardening Scripts & Automation | `STABLE` | 2026-04-01 |
-| **Packet-Phantom** | Low-Level C++ Network Packet Injector | `RESEARCH` | 2026-03-28 |
-| **DeepScan-3X** | AI Deep Learning for Zero-Day Detection | `PLANNING` | 2026-03-25 |
-| **NetSentinel** | Automated Network Intrusion Simulation | `ALPHA` | 2026-03-31 |
+<br>
+
+**🚀 Project-NeuralStrike** • `BUILDING`
+AI-Driven Automated Vulnerability Scanner
+![Progress](https://geps.dev/progress/65?dangerColor=0077B5&color=0077B5)
+*Last Sync: 2026-03-30*
 
 ---
 
+**🛡️ K-Linux-Hardener** • `STABLE`
+Custom Kernel Hardening Scripts & Automation
+![Progress](https://geps.dev/progress/100?dangerColor=0077B5&color=0077B5)
+*Last Sync: 2026-04-01*
+
+---
+
+**👻 Packet-Phantom** • `RESEARCH`
+Low-Level C++ Network Packet Injector
+![Progress](https://geps.dev/progress/45?dangerColor=0077B5&color=0077B5)
+*Last Sync: 2026-03-28*
+
+---
+
+**👁️ DeepScan-3X** • `PLANNING`
+AI Deep Learning for Zero-Day Detection
+![Progress](https://geps.dev/progress/15?dangerColor=0077B5&color=0077B5)
+*Last Sync: 2026-03-25*
+
+---
+
+**📡 NetSentinel** • `ALPHA`
+Automated Network Intrusion Simulation
+![Progress](https://geps.dev/progress/30?dangerColor=0077B5&color=0077B5)
+*Last Sync: 2026-03-31*
+
+<br>
+
+<img src="https://capsule-render.vercel.app/render?type=waving&color=0077B5&height=100&section=footer" width="100%"/>
 ## ⚡ SYSTEM METRICS (REAL-TIME)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=182d018c619a&show_icons=true&theme=radical&border_radius=15&hide_border=false" alt="GitHub Stats" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=182d018c619a&layout=compact&theme=radical&border_radius=15&hide_border=false" alt="Top Languages" height="180px"/>
+
 </p>
 
 <p align="center">
@@ -91,23 +135,26 @@
 </div>
 
 ---
-
-## 🔗 **DECRYPTING CONTACTS**
-
 <div align="center">
 
-| **Social Matrix** | **Direct Access** | **Communication Link** |
-| :---: | :---: | :---: |
-| [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://your-linkedin-link) | [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://your-discord-link) | [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com) |
+## 🔗 ENCRYPTED CONTACTS
 
 <br>
 
-> [!IMPORTANT]
-> **SECURE CONNECTION ESTABLISHED.** > Feel free to reach out for collaborations, technical inquiries, or just to say hello.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://your-linkedin-link) 
+&nbsp;&nbsp;
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://your-discord-link) 
+&nbsp;&nbsp;
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+
+<br>
+<br>
+
+**SECURE CONNECTION ESTABLISHED**
+*Ready for transmission. Feel free to reach out.*
 
 <br>
 
-<img src="https://capsule-render.vercel.app/render?type=soft&color=0077B5&height=120&section=footer&text=END_OF_TRANSMISSION&fontSize=20&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/render?type=waving&color=0077B5&height=120&section=footer" width="100%"/>
 
 </div>
----
