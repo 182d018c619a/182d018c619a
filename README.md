@@ -1,10 +1,5 @@
 <div align="center">
 
-# 🌌 [ DATABASE_ACCESS_GRANTED ] 🌌
-### 📂 PROFILE_NAME: 182d018c619a | 📂 ROLE: AI_PENTESTER_DEVELOPER
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=800&color=39FF14&center=true&vCenter=true&width=700&lines=USER_LEVEL:+ADVANCED+LINUX+USER;LEARNING:+AI+FOR+OFFENSIVE+SECURITY;STATUS:+BUILDING+CUSTOM+TOOLS;MISSION:+NETWORK+MASTERY)](https://git.io/typing-svg)
-
 ---
 
 <img src="https://raw.githubusercontent.com/mhmadefendi/mhmadefendi/main/assets/images/line-neon.gif" width="100%">
