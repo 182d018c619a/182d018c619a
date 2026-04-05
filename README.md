@@ -1,15 +1,15 @@
 <div align="center">
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=1a1b27&height=120&section=footer&text=END%20OF%20TRANSMISSION&fontSize=35&fontColor=ffffff&animation=fadeIn" width="1000">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=1a1b27&height=120&section=footer&text=The%20Linux%20Rules&fontSize=35&fontColor=ffffff&animation=fadeIn" width="1000">
 </p>
 ---
 
-## 🛠️ CORE TERMINAL EXPLOITS
+
 
 <br>
 
-### LINUX & OS ARCHITECTURE
+### Linux & OS Architecture
 [![Kernel](https://img.shields.io/badge/Kernel_Optimization-212121?style=for-the-badge&logo=linux&logoColor=white)](https://github.com) 
 [![Scripting](https://img.shields.io/badge/Scripting-212121?style=for-the-badge&logo=gnubash&logoColor=white)](https://github.com) 
 [![Hardening](https://img.shields.io/badge/OS_Hardening-212121?style=for-the-badge&logo=securityscorecard&logoColor=white)](https://github.com) 
@@ -34,7 +34,7 @@
 
 <br>
 
-### AI & NEURAL DEVELOPMENT
+### AI & Neural Development
 [![ML](https://img.shields.io/badge/Machine_Learning-212121?style=for-the-badge&logo=scikitlearn&logoColor=white)](https://github.com) 
 [![Neural](https://img.shields.io/badge/Neural_Exploits-212121?style=for-the-badge&logo=deepmind&logoColor=white)](https://github.com) 
 [![Auto](https://img.shields.io/badge/Automation-212121?style=for-the-badge&logo=githubactions&logoColor=white)](https://github.com) 
@@ -52,14 +52,14 @@
 
 <br>
 
-### NETWORK INFILTRATION & CLOUD
+### Network Infiltration & Cloud
 [![My Skills](https://img.shields.io/badge/SKILLS-Wireshark%20|%20AWS%20|%20Docker%20|%20Postman-0077B5?style=for-the-badge&logo=github)](https://github.com)
 
 <br>
 
 ---
 
-## PROJECTS
+## Coming Coding
 
 **DeepScan-3X** `PLANNING`   
 AI Deep Learning for Zero-Day Detection     
@@ -75,14 +75,14 @@ Automated Network Intrusion Simulation
 
 <br>
 
-## SYSTEM METRICS (REAL-TIME)
+## Mericals Net.
 
 <p align="center">
   <img src="https://img.shields.io/badge/━━━━━%20END%20OF%20TRANSMISSION%20━━━━━-2c3e50?style=for-the-badge" />
 </p>
 ---
 
-## 🧬 CONTRIBUTION & ACTIVITY FLOW
+## 🧬 Contribution & Activy Flow
 
 <p align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=182d018c619a&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
@@ -90,7 +90,7 @@ Automated Network Intrusion Simulation
 
 ---
 
-## 🏆 ACHIEVEMENTS & BADGES
+## 🏆 Achivment & Badges
 
 <div align="center">
 <img src="https://img.shields.io/badge/Kernel_Expert-Expert-blue?style=for-the-badge&logo=linux&logoColor=white" />
@@ -104,7 +104,7 @@ Automated Network Intrusion Simulation
 
 ---
 
-## 🔗 ENCRYPTED CONTACTS
+## 🔗 Contac Opppssssssssss
 
 <br>
 
@@ -116,7 +116,7 @@ Automated Network Intrusion Simulation
 
 <br><br>
 
-**SECURE CONNECTION ESTABLISHED** *Ready for transmission.*
+**Secure Connected Established** *Ready for transmission.*
 
 <br>
 
