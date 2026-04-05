@@ -68,13 +68,14 @@
 
 
 **NetSentinel** `ALPHA`   
+<br>
 ![Progress](https://img.shields.io/badge/Progress-30%25-0077B5?style=flat-square)     
 
 ---
 <br>
 
 ## Mericals Net.
-
+<br>
 <p align="center">
   <img src="https://img.shields.io/badge/━━━━━%20END%20OF%20TRANSMISSION%20━━━━━-2c3e50?style=for-the-badge" />
 </p>
