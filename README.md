@@ -14,9 +14,21 @@
 
 <br>
 
-[![My Skills](https://skillicons.dev/icons?i=linux,arch,bash,ubuntu,debian)](https://skillicons.dev)
+<p align="center">
+  <img src="https://img.shields.io/badge/-Linux-000?style=flat&logo=linux" />
+  <img src="https://img.shields.io/badge/-Arch-000?style=flat&logo=arch-linux" />
+  <img src="https://img.shields.io/badge/-Bash-000?style=flat&logo=gnu-bash" />
+  <img src="https://img.shields.io/badge/-Ubuntu-000?style=flat&logo=ubuntu" />
+  <img src="https://img.shields.io/badge/-Debian-000?style=flat&logo=debian" />
+</p>
 
 <br>
+
+[![Traffic](https://img.shields.io/badge/Traffic_Analysis-212121?style=for-the-badge&logo=wireshark&logoColor=white)](https://github.com) 
+[![Injection](https://img.shields.io/badge/Packet_Injection-212121?style=for-the-badge&logo=aircrackng&logoColor=white)](https://github.com) 
+[![VPN](https://img.shields.io/badge/VPN_Proxy-212121?style=for-the-badge&logo=expressvpn&logoColor=white)](https://github.com) 
+[![Cloud](https://img.shields.io/badge/Cloud_Security-212121?style=for-the-badge&logo=amazonaws&logoColor=white)](https://github.com)
+
 
 ### AI & NEURAL DEVELOPMENT
 [![ML](https://img.shields.io/badge/Machine_Learning-212121?style=for-the-badge&logo=scikitlearn&logoColor=white)](https://github.com) 
@@ -26,47 +38,44 @@
 
 <br>
 
-[![My Skills](https://skillicons.dev/icons?i=python,tensorflow,pytorch,cpp,go)](https://skillicons.dev)
+<p align="center">
+  <img src="https://img.shields.io/badge/-Python-000?style=flat&logo=python" />
+  <img src="https://img.shields.io/badge/-Tensorflow-000?style=flat&logo=tensorflow" />
+  <img src="https://img.shields.io/badge/-PyTorch-000?style=flat&logo=pytorch" />
+  <img src="https://img.shields.io/badge/-C++-000?style=flat&logo=c%2B%2B" />
+  <img src="https://img.shields.io/badge/-Go-000?style=flat&logo=go" />
+</p>
 
 <br>
 
 ### NETWORK INFILTRATION & CLOUD
-[![Traffic](https://img.shields.io/badge/Traffic_Analysis-212121?style=for-the-badge&logo=wireshark&logoColor=white)](https://github.com) 
-[![Injection](https://img.shields.io/badge/Packet_Injection-212121?style=for-the-badge&logo=aircrackng&logoColor=white)](https://github.com) 
-[![VPN](https://img.shields.io/badge/VPN_Proxy-212121?style=for-the-badge&logo=expressvpn&logoColor=white)](https://github.com) 
-[![Cloud](https://img.shields.io/badge/Cloud_Security-212121?style=for-the-badge&logo=amazonaws&logoColor=white)](https://github.com)
 
 <br>
 
-[![My Skills](https://skillicons.dev/icons?i=wireshark,pcap,postman,aws,docker)](https://skillicons.dev)
+[![My Skills](https://img.shields.io/badge/SKILLS-Wireshark%20|%20AWS%20|%20Docker%20|%20Postman-0077B5?style=for-the-badge&logo=github)](https://github.com)
 
 <br>
-
-<img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=120&section=footer&text=TERIMA%20KASIH&fontSize=20&animation=fadeIn" width="100%"/>
 
 ---
 
-**DeepScan-3X** • `PLANNING`  
-AI Deep Learning for Zero-Day Detection  
-![Progress](https://geps.dev/progress/15?dangerColor=0077B5&color=0077B5)  
-*Last Sync: 2026-03-25*
+**DeepScan-3X** • `PLANNING`   
+AI Deep Learning for Zero-Day Detection     
+![Progress](https://img.shields.io/badge/Progress-15%25-0077B5?style=flat-square)     
+*Last Sync: 2026-04-06*
 
 ---
 
-**NetSentinel** • `ALPHA`  
-Automated Network Intrusion Simulation  
-![Progress](https://geps.dev/progress/30?dangerColor=0077B5&color=0077B5)  
-*Last Sync: 2026-03-31*
+**NetSentinel** • `ALPHA`   
+Automated Network Intrusion Simulation     
+![Progress](https://img.shields.io/badge/Progress-30%25-0077B5?style=flat-square)     
+*Last Sync: 2026-04-06*
 
 <br>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-Icons/main/extracodes/wave.svg" width="100%">
-</p>
 ## SYSTEM METRICS (REAL-TIME)
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=182d018c619a&theme=radical&hide_border=false" alt="GitHub Streak" width="100%"/>
+  <img src="https://img.shields.io/badge/---_END_OF_TRANSMISSION_----0077B5?style=for-the-badge" width="100%">
 </p>
 
 ---
@@ -74,7 +83,7 @@ Automated Network Intrusion Simulation
 ## 🧬 CONTRIBUTION & ACTIVITY FLOW
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=182d018c619a&theme=github-activity&area=true" width="100%">
+  <img src="https://github-readme-stats.vercel.app/api?username=182d018c619a&show_icons=true&theme=tokyonight&count_private=true" width="100%">
 </p>
 
 ---
@@ -83,7 +92,7 @@ Automated Network Intrusion Simulation
 
 <div align="center">
 <img src="https://img.shields.io/badge/Kernel_Expert-Expert-blue?style=for-the-badge&logo=linux&logoColor=white" />
-<img src="https://img.shields.io/badge/AI_Pentester-Advanced-green?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/AI_Pentester-Advanced-blue?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/Network_Sentinel-Pro-red?style=for-the-badge&logo=wireshark&logoColor=white" />
 <img src="https://img.shields.io/badge/Zero-Day_Hunter-Elite-purple?style=for-the-badge&logo=metasploit&logoColor=white" />
 </div>
@@ -102,14 +111,10 @@ Automated Network Intrusion Simulation
 
 <br><br>
 
-**SECURE CONNECTION ESTABLISHED**  
-*Ready for transmission. Feel free to reach out.*
+**SECURE CONNECTION ESTABLISHED** *Ready for transmission.*
 
 <br>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
-</picture>
+---
 
 </div>
