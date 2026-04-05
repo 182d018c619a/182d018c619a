@@ -62,17 +62,17 @@
 
 ## PROJECTS
 
-**DeepScan-3X** • `PLANNING`   
+**DeepScan-3X** `PLANNING`   
 AI Deep Learning for Zero-Day Detection     
 ![Progress](https://img.shields.io/badge/Progress-15%25-0077B5?style=flat-square)     
-*Last Sync: 2026-04-06*
+
 
 ---
 
-**NetSentinel** • `ALPHA`   
+**NetSentinel** `ALPHA`   
 Automated Network Intrusion Simulation     
 ![Progress](https://img.shields.io/badge/Progress-30%25-0077B5?style=flat-square)     
-*Last Sync: 2026-04-06*
+
 
 <br>
 
