@@ -92,17 +92,22 @@
 
 ---
 
-## 🔗 ENCRYPTED CONTACTS
+## 🔗 **DECRYPTING CONTACTS**
 
 <div align="center">
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://your-linkedin-link)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://your-discord-link)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
-</div>
+
+| **Social Matrix** | **Direct Access** | **Communication Link** |
+| :---: | :---: | :---: |
+| [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://your-linkedin-link) | [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://your-discord-link) | [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com) |
 
 <br>
 
-<img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=140&section=footer" width="100%"/>
+> [!IMPORTANT]
+> **SECURE CONNECTION ESTABLISHED.** > Feel free to reach out for collaborations, technical inquiries, or just to say hello.
 
+<br>
+
+<img src="https://capsule-render.vercel.app/render?type=soft&color=0077B5&height=120&section=footer&text=END_OF_TRANSMISSION&fontSize=20&animation=fadeIn" width="100%"/>
+
+</div>
 ---
-**LAST_UPDATED:** 2026_SYSTEM_TIME
