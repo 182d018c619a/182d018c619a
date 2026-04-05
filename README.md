@@ -34,7 +34,7 @@
 
 <br>
 
-### AI & Neural Development
+### Artificial Intelligence & Neural Development
 [![ML](https://img.shields.io/badge/Machine_Learning-212121?style=for-the-badge&logo=scikitlearn&logoColor=white)](https://github.com) 
 [![Neural](https://img.shields.io/badge/Neural_Exploits-212121?style=for-the-badge&logo=deepmind&logoColor=white)](https://github.com) 
 [![Auto](https://img.shields.io/badge/Automation-212121?style=for-the-badge&logo=githubactions&logoColor=white)](https://github.com) 
