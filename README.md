@@ -97,6 +97,9 @@ Automated Network Intrusion Simulation
 <img src="https://img.shields.io/badge/Kernel_Expert-Expert-blue?style=for-the-badge&logo=linux&logoColor=white" />
 <img src="https://img.shields.io/badge/AI_Pentester-Advanced-blue?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/Network_Sentinel-Pro-red?style=for-the-badge&logo=wireshark&logoColor=white" />
+
+<br>
+  
 <img src="https://img.shields.io/badge/Zero-Day_Hunter-Elite-purple?style=for-the-badge&logo=metasploit&logoColor=white" />
 </div>
 
