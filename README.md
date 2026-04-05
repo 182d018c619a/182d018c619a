@@ -1,5 +1,9 @@
 <div align="center">
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=2c3e50&height=60&section=footer&text=END%20OF%20TRANSMISSION&fontSize=20&animation=fadeIn" width="100%">
+</p>
+
 ---
 
 ## 🛠️ CORE TERMINAL EXPLOITS
@@ -29,6 +33,7 @@
 [![VPN](https://img.shields.io/badge/VPN_Proxy-212121?style=for-the-badge&logo=expressvpn&logoColor=white)](https://github.com) 
 [![Cloud](https://img.shields.io/badge/Cloud_Security-212121?style=for-the-badge&logo=amazonaws&logoColor=white)](https://github.com)
 
+<br>
 
 ### AI & NEURAL DEVELOPMENT
 [![ML](https://img.shields.io/badge/Machine_Learning-212121?style=for-the-badge&logo=scikitlearn&logoColor=white)](https://github.com) 
@@ -49,14 +54,13 @@
 <br>
 
 ### NETWORK INFILTRATION & CLOUD
-
-<br>
-
 [![My Skills](https://img.shields.io/badge/SKILLS-Wireshark%20|%20AWS%20|%20Docker%20|%20Postman-0077B5?style=for-the-badge&logo=github)](https://github.com)
 
 <br>
 
 ---
+
+## PROJECTS
 
 **DeepScan-3X** • `PLANNING`   
 AI Deep Learning for Zero-Day Detection     
@@ -75,15 +79,14 @@ Automated Network Intrusion Simulation
 ## SYSTEM METRICS (REAL-TIME)
 
 <p align="center">
-  <img src="https://img.shields.io/badge/---_END_OF_TRANSMISSION_----0077B5?style=for-the-badge" width="100%">
+  <img src="https://img.shields.io/badge/━━━━━%20END%20OF%20TRANSMISSION%20━━━━━-2c3e50?style=for-the-badge" />
 </p>
-
 ---
 
 ## 🧬 CONTRIBUTION & ACTIVITY FLOW
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=182d018c619a&show_icons=true&theme=tokyonight&count_private=true" width="100%">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=182d018c619a&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
 </p>
 
 ---
@@ -92,7 +95,7 @@ Automated Network Intrusion Simulation
 
 <div align="center">
 <img src="https://img.shields.io/badge/Kernel_Expert-Expert-blue?style=for-the-badge&logo=linux&logoColor=white" />
-<img src="https://img.shields.io/badge/AI_Pentester-Advanced-0077B5?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/AI_Pentester-Advanced-blue?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/Network_Sentinel-Pro-red?style=for-the-badge&logo=wireshark&logoColor=white" />
 <img src="https://img.shields.io/badge/Zero-Day_Hunter-Elite-purple?style=for-the-badge&logo=metasploit&logoColor=white" />
 </div>
@@ -111,10 +114,8 @@ Automated Network Intrusion Simulation
 
 <br><br>
 
-**SECURE CONNECTION ESTABLISHED** *Ready for transmission. Feel free to reach out.*
+**SECURE CONNECTION ESTABLISHED** *Ready for transmission.*
 
 <br>
-
----
 
 </div>
