@@ -62,17 +62,15 @@
 ## Coming Coding
 
 **DeepScan-3X** `PLANNING`   
-AI Deep Learning for Zero-Day Detection     
 ![Progress](https://img.shields.io/badge/Progress-15%25-0077B5?style=flat-square)     
-
 
 ---
 
+
 **NetSentinel** `ALPHA`   
-Automated Network Intrusion Simulation     
 ![Progress](https://img.shields.io/badge/Progress-30%25-0077B5?style=flat-square)     
 
-
+---
 <br>
 
 ## Mericals Net.
