@@ -19,75 +19,36 @@
 
 ---
 
+Vulnerability Assessment • Exploit Dev • Penetration • Crypto Cracking
+
+---
+
 ## 🛠️ CORE TERMINAL EXPLOITS
 
 <br>
 
 ### 🐧 LINUX & OS ARCHITECTURE
-`Kernel Optimization` • `Scripting` • `OS Hardening` • `System Monitoring`
+[![Kernel](https://img.shields.io/badge/Kernel_Optimization-212121?style=for-the-badge&logo=linux&logoColor=white)](https://github.com) [![Scripting](https://img.shields.io/badge/Scripting-212121?style=for-the-badge&logo=gnubash&logoColor=white)](https://github.com) [![Hardening](https://img.shields.io/badge/OS_Hardening-212121?style=for-the-badge&logo=securityscorecard&logoColor=white)](https://github.com) [![Monitoring](https://img.shields.io/badge/System_Monitoring-212121?style=for-the-badge&logo=datadog&logoColor=white)](https://github.com)
 <br>
 [![My Skills](https://skillicons.dev/icons?i=linux,arch,bash,ubuntu,debian)](https://skillicons.dev)
 
 <br>
 
 ### 🤖 AI & NEURAL DEVELOPMENT
-`Machine Learning` • `Neural Network Exploits` • `Automation` • `AI Tooling`
+[![ML](https://img.shields.io/badge/Machine_Learning-212121?style=for-the-badge&logo=scikitlearn&logoColor=white)](https://github.com) [![Neural](https://img.shields.io/badge/Neural_Exploits-212121?style=for-the-badge&logo=deepmind&logoColor=white)](https://github.com) [![Auto](https://img.shields.io/badge/Automation-212121?style=for-the-badge&logo=githubactions&logoColor=white)](https://github.com) [![Tooling](https://img.shields.io/badge/AI_Tooling-212121?style=for-the-badge&logo=openai&logoColor=white)](https://github.com)
 <br>
 [![My Skills](https://skillicons.dev/icons?i=python,tensorflow,pytorch,cpp,go)](https://skillicons.dev)
 
 <br>
 
 ### 🛡️ NETWORK INFILTRATION & CLOUD
-`Traffic Analysis` • `Packet Injection` • `VPN/Proxy` • `Cloud Security`
+[![Traffic](https://img.shields.io/badge/Traffic_Analysis-212121?style=for-the-badge&logo=wireshark&logoColor=white)](https://github.com) [![Injection](https://img.shields.io/badge/Packet_Injection-212121?style=for-the-badge&logo=aircrackng&logoColor=white)](https://github.com) [![VPN](https://img.shields.io/badge/VPN_Proxy-212121?style=for-the-badge&logo=expressvpn&logoColor=white)](https://github.com) [![Cloud](https://img.shields.io/badge/Cloud_Security-212121?style=for-the-badge&logo=amazonaws&logoColor=white)](https://github.com)
 <br>
 [![My Skills](https://skillicons.dev/icons?i=wireshark,pcap,postman,aws,docker)](https://skillicons.dev)
 
 <br>
 
-### 🔧 OFFENSIVE SECURITY LABS
-`Vulnerability Assessment` • `Exploit Dev` • `Penetration` • `Crypto Cracking`
-<br>
-[![My Skills](https://skillicons.dev/icons?i=metasploit,nmap,burpsuite,sql,hashicorp)](https://skillicons.dev)
-
-<br>
-<br>
-
-<img src="https://capsule-render.vercel.app/render?type=waving&color=0077B5&height=120&section=footer&text=SYSTEM_READY&fontSize=20&animation=fadeIn" width="100%"/>
-
----
-
-### 🔧 OFFENSIVE SECURITY LABS
-`Vulnerability Assessment` • `Exploit Dev` • `Penetration` • `Crypto Cracking`
-<br>
-[![My Skills](https://skillicons.dev/icons?i=metasploit,nmap,burpsuite,sql,hashicorp)](https://skillicons.dev)
-
-<br>
-<br>
-
-<img src="https://capsule-render.vercel.app/render?type=waving&color=0077B5&height=120&section=footer&text=SYSTEM_READY&fontSize=20" width="100%"/>
-
-## 📡 CURRENT PROJECTS & LABS
-
-<br>
-
-**🚀 Project-NeuralStrike** • `BUILDING`
-AI-Driven Automated Vulnerability Scanner
-![Progress](https://geps.dev/progress/65?dangerColor=0077B5&color=0077B5)
-*Last Sync: 2026-03-30*
-
----
-
-**🛡️ K-Linux-Hardener** • `STABLE`
-Custom Kernel Hardening Scripts & Automation
-![Progress](https://geps.dev/progress/100?dangerColor=0077B5&color=0077B5)
-*Last Sync: 2026-04-01*
-
----
-
-**👻 Packet-Phantom** • `RESEARCH`
-Low-Level C++ Network Packet Injector
-![Progress](https://geps.dev/progress/45?dangerColor=0077B5&color=0077B5)
-*Last Sync: 2026-03-28*
+<img src="https://capsule-render.vercel.app/render?type=waving&color=0077B5&height=120&section=footer&text=END_OF_TRANSMISSION&fontSize=20" width="100%"/>
 
 ---
 
