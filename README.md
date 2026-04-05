@@ -1,9 +1,8 @@
 <div align="center">
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=2c3e50&height=60&section=footer&text=END%20OF%20TRANSMISSION&fontSize=20&animation=fadeIn" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=1a1b27&height=120&section=footer&text=END%20OF%20TRANSMISSION&fontSize=35&fontColor=ffffff&animation=fadeIn" width="1000">
 </p>
-
 ---
 
 ## 🛠️ CORE TERMINAL EXPLOITS
